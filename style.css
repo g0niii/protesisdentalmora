@@ -633,17 +633,26 @@ main{
 }
 
 
-
-
-
 .services{
     padding-top: 120px;
 }
 
+.fondodeinicio2{
+    font-size: 50px;
+}
 
+.fondodeinicio2 h2{
+    font-size: 70px;
+}
+.fondodeinicio2 a{
+    height: 20vw;
+    width: 20vw;
+}
+
+.fondodeinicio2 a p{
+    font-size: 70px;
+    padding-top: 25px;
 }
 
 
 
-
-}
