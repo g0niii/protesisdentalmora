@@ -260,7 +260,7 @@ div.galeria img{
     border-radius: 30px;
     padding-top:50px ;
     height:   35vh;
-    width: 60vh;
+    width:  60vw;
     background-color: rgb(238, 247, 255);
     align-items: center;
     justify-content: center;
@@ -626,6 +626,21 @@ main{
 .nosotrostexto{
     font-size: 40px;
 }
+
+.services p{
+    
+    font-size: 30px;
+}
+
+
+
+
+
+.services{
+    padding-top: 120px;
+}
+
+
 }
 
 
