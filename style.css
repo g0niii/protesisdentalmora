@@ -336,6 +336,13 @@ background-position: center center;
    
 }
 
+.ico-size img{
+
+    height: 6vw;
+}
+
+
+
 
 
 
@@ -584,8 +591,40 @@ main{
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    
+    
 }
+
+.icono img{
+    height: 40vw;
+
 }
+.search  input{
+    border-radius: 20px;
+    width: 40vw;
+}
+
+
+.search2 input{
+    width: 25vw;
+    border-radius: 10px;
+}
+
+.somos-esp {
+   font-size: 6rem;
+}
+
+.ico-size img{
+
+    height: 15vw;
+}
+
+.parrafos-flex{
+    font-size: 29px
+}
+
+}
+
 
 
 
