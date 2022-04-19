@@ -639,20 +639,47 @@ main{
 
 .fondodeinicio2{
     font-size: 50px;
+    
 }
 
 .fondodeinicio2 h2{
     font-size: 70px;
 }
 .fondodeinicio2 a{
-    height: 20vw;
-    width: 20vw;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 20px;
 }
 
 .fondodeinicio2 a p{
+    background-color: #c1e2f2   ;
+    border-radius: 20px;
+    color: black;
     font-size: 70px;
-    padding-top: 25px;
+    padding-top: 10px;
 }
 
+.redes a img{
+    height: 150px;
+    width: 150px;
 
+}
 
+.redes p{
+    font-size: 40;
+}
+.volver {
+    font-size: 40;
+}
+main form {
+    text-align: center;
+    padding: 92px;
+    font-weight: 1000;
+    font-family: Georgia;
+    font-size: 50px;
+}
+
+h2,h3 {
+    font-size: 50px;
+    font-family: Century;
+}
