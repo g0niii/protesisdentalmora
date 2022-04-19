@@ -602,11 +602,15 @@ main{
 .search  input{
     border-radius: 20px;
     width: 40vw;
+    font-size: 30px;
 }
 
 
 .search2 input{
-    width: 25vw;
+
+    height: 10vw;
+    width: 30vw;
+    font-size: 30px;
     border-radius: 10px;
 }
 
@@ -629,13 +633,16 @@ main{
 
 .services p{
     
-    font-size: 30px;
+    font-size: 40px;
 }
 
 
 .services{
     padding-top: 120px;
 }
+
+
+
 
 .fondodeinicio2{
     font-size: 50px;
@@ -682,4 +689,6 @@ main form {
 h2,h3 {
     font-size: 50px;
     font-family: Century;
+}
+}
 }
