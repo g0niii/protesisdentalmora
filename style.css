@@ -640,13 +640,15 @@ main{
 }
 
 .services p{
-    
-    font-size: 40px;
+    font-size: 55px;
 }
 
 
 .services{
-    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -698,6 +700,10 @@ main form {
 h2,h3 {
     font-size: 50px;
     font-family: Century;
+}
+
+article {
+
 }
 }
 }
