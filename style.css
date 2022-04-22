@@ -156,9 +156,10 @@ footer {
 
 .nosotrostexto {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 800px;
+    width: 1300px;
     font-size: 25px;
     text-align: center;
   
@@ -168,16 +169,18 @@ footer {
  
 .nosotros {
     text-align: center;
+    
+  
 
     
 }
 
 .contenedornosotros{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 100px;
+  
 }
 
 
@@ -381,6 +384,9 @@ div.gallery {
     flex-wrap: wrap;
     padding-top: 30px;
 }
+.index-abajo{
+    font-size: 30px;
+}
 
   
   @media only screen and (max-width: 700px) {
@@ -501,6 +507,7 @@ div.galeria img{
 .nosotrostexto {
     padding-top: 20px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 95vw;
@@ -510,11 +517,16 @@ div.galeria img{
     
 
 }
+.nosotrostexto h2{
+    font-size: 100px;
+}
  
 .nosotros {
+
     display: flex;
     flex-direction: column;
     text-align: center;
+
 
 }
 
@@ -781,6 +793,9 @@ div.gallery img {
     height: 600px;
   }
  
+.index-abajo{
+    font-size: 40px;
+}
 
 
 
